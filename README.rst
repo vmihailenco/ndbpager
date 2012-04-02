@@ -1,7 +1,7 @@
-Intro
-=====
+Pager for Google Appengine NDB
+==============================
 
-This is pager for NDB that caches cursor in memcache.
+This is pager for Google Appengine NDB that caches cursor in memcache.
 
 Example
 =======
