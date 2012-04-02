@@ -3,13 +3,12 @@
 from distutils.core import setup
 
 
-version = __import__('ndbpager').get_version()
 readme = open('README.rst').read()
 
 
 setup(
     name='ndbpager',
-    version=version.replace(' ', '-'),
+    version='0.1.0',
     description='Pager for NDB',
     long_description=readme,
     author='Vladimir Mihailenco',
