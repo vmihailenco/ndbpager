@@ -8,7 +8,7 @@ readme = open('README.md').read()
 
 setup(
     name='ndbpager',
-    version='0.1.0',
+    version='0.1.1',
     description='Pager for NDB',
     long_description=readme,
     author='Vladimir Mihailenco',
@@ -16,7 +16,7 @@ setup(
     url='https://github.com/vmihailenco/ndbpager/',
     packages=['ndbpager'],
     classifiers=[
-        'Development Status :: 2 - Pre-Alpha',
+        'Development Status :: 7 - Inactive',
         'Environment :: Web Environment',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
